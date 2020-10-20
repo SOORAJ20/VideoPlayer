@@ -1,0 +1,9 @@
+
+    <div>
+        <br>
+    <ul class="nav flex-column">
+    <li (click)="onSelect(video)" *ngFor="let video of videolist" class="nav-item">
+    <a class="nav-link active">{{video.title}}</a>
+    </li>
+    </ul>
+    </div>

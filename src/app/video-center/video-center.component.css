@@ -1,0 +1,11 @@
+.col-sm-9 {
+    background-color:burlywood;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.col-sm-3 {
+    background-color: black;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
